@@ -1,0 +1,33 @@
+#portas-internas .internas-produtos-img {
+    gap: 3rem;
+}
+
+#portas-internas p {
+    font-weight: 500;
+    line-height: 3rem;
+
+    @media (max-width: 768px) {
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+}
+
+#pele-de-vidro p {
+    font-weight: 500;
+    line-height: 3rem;
+
+    @media (max-width: 768px) {
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+}
+
+#guarda-corpo p {
+    font-weight: 500;
+    line-height: 3rem;
+
+    @media (max-width: 768px) {
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+}

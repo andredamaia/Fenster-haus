@@ -1,0 +1,72 @@
+.button-fale-conosco {
+    position: fixed;
+    top: 70%;
+    right: 30px;
+    background: var(--color-tarawera);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    border-radius: 5rem;
+    padding: 1rem;
+    border: 1px solid transparent;
+    text-decoration: none;
+    transition: all .3s ease-in-out;
+    font-size: 2rem;
+    z-index: 70;
+
+    div {
+        background: var(--color-tangerine);
+        border-radius: 100%;
+        margin-right: 1rem;
+        position: relative;
+        width: 4rem;
+        height: 4rem;
+
+        svg {
+            width: 2.5rem;
+            height: 2.5rem;
+            fill: var(--color-light);
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            margin: auto;
+            right: 0;
+        }
+    }
+
+    &:hover {
+        background: var(--color-tangerine);
+        text-decoration: none;
+        opacity: 1;
+
+        div {
+            background: var(--color-tarawera);
+        }
+    }
+}
+
+.desktop-version {
+
+    @media (max-width: 768px) {
+        display: none;
+    }
+}
+
+.mobile-version {
+
+    display: none;
+
+    @media (max-width: 768px) {
+        display: block;
+
+        position: fixed;
+        top: 60%;
+        right: 20px;
+
+        div {
+            margin-right: 0;
+        }
+    }
+}

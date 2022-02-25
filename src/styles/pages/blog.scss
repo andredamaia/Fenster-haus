@@ -1,0 +1,52 @@
+.area-white {
+    padding: 20rem 0 10rem;
+
+    @media (max-width: 768px) {
+        padding: 15rem 1rem 3rem;
+    }
+
+    .blog {
+        display: grid;
+        padding: 0 8rem;
+        grid-template-columns: 0.3fr 1fr;
+        margin-bottom: 7rem;
+
+        @media (max-width: 768px) {
+            padding: 0;
+            grid-template-columns: 1fr;
+            margin-bottom: 3rem;
+        }
+
+        .blog-img {
+            width: 32rem;
+            height: 20rem;
+            overflow: hidden;
+            margin-right: 5rem;
+
+            @media (max-width: 768px) {
+                width: 100%;
+                margin-right: 0;
+            }
+
+            img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+        }
+
+        .blog-notice {
+            strong {
+                margin-bottom: 3rem;
+                display: block;
+                text-transform: uppercase;
+            }
+
+            p {
+                margin-bottom: 3rem;
+            }
+
+
+        }
+    }
+}

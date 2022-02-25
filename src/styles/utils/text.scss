@@ -1,12 +1,49 @@
-h6 {
-    font-size: var(--title-32);
-    color: var(--color-dark);
-    line-height: 3.2rem;
+h3 {
+    font-size: 2.5rem;
+    color: var(--color-light);
+    font-weight: 600;
+    font-family: 'roboto', sans-serif;
+    text-transform: uppercase;
+
+    @media (max-width: 768px) {
+        text-align: center;
+        font-size: 2rem;
+    }
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: var(--color-tarawera);
+    font-weight: 700;
+    font-family: 'roboto', sans-serif;
+    position: relative;
+    z-index: 10;
+    text-transform: uppercase;
+}
+
+h5 {
+    font-size: 2rem;
+    line-height: 3.6rem;
+    color: var(--color-light);
+    font-weight: 700;
+    font-family: 'roboto', sans-serif;
+    margin-bottom: 2rem;
+
+    @media (min-height: 620px) and (max-height: 720px) {
+        font-size: 1.8rem;
+        line-height: 2.7rem;
+    }
 }
 
 p {
-    font-size: var(--text-16);
-    line-height: 2.6rem;
-    color: var(--color-light);
+    font-size: 2rem;
+    line-height: 2.3rem;
+    color: var(--color-tarawera);
     margin-bottom: 3rem;
+}
+
+strong {
+    font-size: 2rem;
+    line-height: 2.3rem;
+    color: var(--color-tarawera);
 }

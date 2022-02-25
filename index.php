@@ -32,6 +32,8 @@
             
             <?php include('components/header.php'); ?>
 
+            <?php include('components/button-fale-conosco.php'); ?>
+
             <div asscroll-container>
                 <div>
                     <?php
@@ -39,6 +41,7 @@
                             include('pages/'.$page.'.php');
                         }
                     ?>
+
                 
                     <?php include('components/footer.php'); ?>
                 </div>

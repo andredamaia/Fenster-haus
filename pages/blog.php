@@ -1,198 +1,49 @@
-
-
-<div class="bg-light">
+<div class="area-white">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-md-6">
-                <h3>Conteúdo sobre contabilidade e empreendedorismo<span>.</span></h3>
-            </div>
+            <div class="col-12">
+                <div class="blog">                    
+                    <div class="blog-img">
+                        <img src="<?php echo $pageurl; ?>/public/images/banner-4.jpg" alt="" />
+                    </div>
 
-            <div class="col-12 col-md-6 text-right">
-                <div class="box-select">
-                    Eu quero aprender 
-                    <select name="" id="">
-                        <option value="" selected>contabilidade</option>
-                        <option value="">consultoria</option>
-                        <option value="">acessoria</option>
-                        <option value="">rh</option>
-                    </select>
+                    <div class="blog-notice">
+                        <strong>O Isolamento Acústico das Esquadrias de PVC</strong>
+
+                        <p>As portas e janelas de PVC possuem muitas vantagens, sendo uma das principais o isolamento acústico que elas proporcionam. A ciência por trás da redução do barulho explica que é necessário uma interrupção da onda de som da fonte até o receptor. A construção robusta das esquadrias de PVC...</p>
+
+                        <a href="blog-interna" class="button-leia-mais">Leia mais...</a>
+                    </div>                    
                 </div>
-            </div>
 
-            <div class="w-100 clear40"></div>
-
-            <div class="col-12 col-md-4">
-                <div class="box-blog">
-                    <div class="blog-image">
-                        <img src="<?php echo $pageurl; ?>/public/images/blog-1.jpg" alt="">
+                <div class="blog">                    
+                    <div class="blog-img">
+                        <img src="<?php echo $pageurl; ?>/public/images/banner-3.jpg" alt="" />
                     </div>
 
-                    <div class="blog-infos">
-                        <span class="blog-title">Como trocar de contabilidade sem ter dor de cabeça</span>
+                    <div class="blog-notice">
+                        <strong>PORQUE AS ESQUADRIAS DE PVC VEM SE TORNANDO TÃO POPULARES</strong>
 
-                        <div class="blog-details">
-                            <div><a href="post" class="link-simple">Saiba mais</a></div>
+                        <p>Hoje explicaremos porque cada vez mais as esquadrias de PVC vem ganhando tanta popularidade e substituindo as antigas portas e janelas de alumínio e madeira. As  portas e janelas de PVC são as mais modernas do segmento, e sua tecnologia vem ganhando popularidade por vários motivos.</p>
 
-                            <div><span class="blog-date">30/10/2019</span></div>
-                        </div>
-                    </div>
+                        <a href="blog-interna" class="button-leia-mais">Leia mais...</a>
+                    </div>                    
                 </div>
-            </div>
 
-            <div class="col-12 col-md-4">
-                <div class="box-blog">
-                    <div class="blog-image">
-                        <img src="<?php echo $pageurl; ?>/public/images/blog-2.jpg" alt="">
+                <div class="blog">                    
+                    <div class="blog-img">
+                        <img src="<?php echo $pageurl; ?>/public/images/banner-2.jpg" alt="" />
                     </div>
 
-                    <div class="blog-infos">
-                        <span class="blog-title">Como trocar de contabilidade sem ter dor de cabeça</span>
+                    <div class="blog-notice">
+                        <strong>Por que escolher portas e janelas em PVC</strong>
 
-                        <div class="blog-details">
-                            <div><a href="post" class="link-simple">Saiba mais</a></div>
+                        <p>As esquadrias de PVC cada vez mais se tornam populares pelos seus benefícios. As portas e janelas são uma parte muito importante da casa e esses dois itens devem ser bonitos e seguros. As esquadrias de PVC possuem esses ...</p>
 
-                            <div><span class="blog-date">30/10/2019</span></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-12 col-md-4">
-                <div class="box-blog">
-                    <div class="blog-image">
-                        <img src="<?php echo $pageurl; ?>/public/images/blog-3.jpg" alt="">
-                    </div>
-
-                    <div class="blog-infos">
-                        <span class="blog-title">Como trocar de contabilidade sem ter dor de cabeça</span>
-
-                        <div class="blog-details">
-                            <div><a href="post" class="link-simple">Saiba mais</a></div>
-
-                            <div><span class="blog-date">30/10/2019</span></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-12 col-md-4">
-                <div class="box-blog">
-                    <div class="blog-image">
-                        <img src="<?php echo $pageurl; ?>/public/images/blog-1.jpg" alt="">
-                    </div>
-
-                    <div class="blog-infos">
-                        <span class="blog-title">Como trocar de contabilidade sem ter dor de cabeça</span>
-
-                        <div class="blog-details">
-                            <div><a href="post" class="link-simple">Saiba mais</a></div>
-
-                            <div><span class="blog-date">30/10/2019</span></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-12 col-md-4">
-                <div class="box-blog">
-                    <div class="blog-image">
-                        <img src="<?php echo $pageurl; ?>/public/images/blog-2.jpg" alt="">
-                    </div>
-
-                    <div class="blog-infos">
-                        <span class="blog-title">Como trocar de contabilidade sem ter dor de cabeça</span>
-
-                        <div class="blog-details">
-                            <div><a href="post" class="link-simple">Saiba mais</a></div>
-
-                            <div><span class="blog-date">30/10/2019</span></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-12 col-md-4">
-                <div class="box-blog">
-                    <div class="blog-image">
-                        <img src="<?php echo $pageurl; ?>/public/images/blog-3.jpg" alt="">
-                    </div>
-
-                    <div class="blog-infos">
-                        <span class="blog-title">Como trocar de contabilidade sem ter dor de cabeça</span>
-
-                        <div class="blog-details">
-                            <div><a href="post" class="link-simple">Saiba mais</a></div>
-
-                            <div><span class="blog-date">30/10/2019</span></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-12 col-md-4">
-                <div class="box-blog">
-                    <div class="blog-image">
-                        <img src="<?php echo $pageurl; ?>/public/images/blog-1.jpg" alt="">
-                    </div>
-
-                    <div class="blog-infos">
-                        <span class="blog-title">Como trocar de contabilidade sem ter dor de cabeça</span>
-
-                        <div class="blog-details">
-                            <div><a href="post" class="link-simple">Saiba mais</a></div>
-
-                            <div><span class="blog-date">30/10/2019</span></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-12 col-md-4">
-                <div class="box-blog">
-                    <div class="blog-image">
-                        <img src="<?php echo $pageurl; ?>/public/images/blog-2.jpg" alt="">
-                    </div>
-
-                    <div class="blog-infos">
-                        <span class="blog-title">Como trocar de contabilidade sem ter dor de cabeça</span>
-
-                        <div class="blog-details">
-                            <div><a href="post" class="link-simple">Saiba mais</a></div>
-
-                            <div><span class="blog-date">30/10/2019</span></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-12 col-md-4">
-                <div class="box-blog">
-                    <div class="blog-image">
-                        <img src="<?php echo $pageurl; ?>/public/images/blog-3.jpg" alt="">
-                    </div>
-
-                    <div class="blog-infos">
-                        <span class="blog-title">Como trocar de contabilidade sem ter dor de cabeça</span>
-
-                        <div class="blog-details">
-                            <div><a href="post" class="link-simple">Saiba mais</a></div>
-
-                            <div><span class="blog-date">30/10/2019</span></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-12 col-md-12">
-                <div class="list-pagination">
-                    <div><a href="#">1</a></div>
-                    <div><a href="#">2</a></div>
-                    <div><a href="#">3</a></div>
-                    <div><a href="#"><img src="images/icon-button.png" alt=""></a></div>
+                        <a href="blog-interna" class="button-leia-mais">Leia mais...</a>
+                    </div>                    
                 </div>
             </div>
         </div>
     </div>
 </div>
-
-            

@@ -12,3 +12,18 @@
         opacity: .6;
     }
 }
+
+.button-leia-mais {
+    font-size: 2rem;
+    line-height: 2rem;
+    color: var(--color-tarawera);
+    text-decoration: none;
+    transition: all .3s ease-in-out;
+    font-weight: 700;
+
+    &:hover {
+        text-decoration: none;
+        color: var(--color-tangerine);
+        opacity: 1;
+    }
+}
