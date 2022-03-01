@@ -16,7 +16,9 @@ import './pages/esquadrias-aluminio'
 import './pages/portas-internas'
 import './pages/pele-de-vidro'
 import './pages/guarda-corpo'
-import './pages/cases'
+import './pages/obras'
+import './pages/pvc'
+import './pages/historia-das-janelas'
 
 new Load({ domElement: document.querySelector('.preload') })
 new Menu({ domElement: document.querySelector('.menu') })

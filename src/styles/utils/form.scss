@@ -23,6 +23,11 @@
             color: var(--color-tarawera);
         }
 
+        @media (min-height: 620px) and (max-height: 720px) {    
+            height: 4rem;
+            line-height: 4rem;
+        }    
+
         @media (max-width: 768px) {
             width: 100%;
         }
@@ -41,6 +46,10 @@
         &::placeholder {
             font-size: 2rem;
             color: var(--color-tarawera);
+        }
+
+        @media (min-height: 620px) and (max-height: 720px) {    
+            height: 10rem;
         }
 
         @media (max-width: 768px) {
@@ -83,6 +92,11 @@
         font-weight: 500;
         text-transform: uppercase;
         transition: all .3s ease-in-out;
+
+        @media (min-height: 620px) and (max-height: 720px) {    
+            height: 5rem;
+            line-height: 5rem;
+        }
 
         @media (max-width: 768px) {
             width: 100%;

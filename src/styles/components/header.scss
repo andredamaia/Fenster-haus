@@ -60,6 +60,22 @@ header {
             &:last-child {
                 margin-right: 0;
             }
+
+            span {
+                span {
+                    @media (min-width: 1400px) and (max-width: 1600px) {
+                        font-size: 1.6rem !important;
+                    }
+    
+                    @media (min-width: 1200px) and (max-width: 1400px) {
+                        font-size: 1.5rem !important;
+                    }
+    
+                    @media (min-width: 992px) and (max-width: 1200px) {
+                        font-size: 1.4rem !important;
+                    }
+                }
+            }
     
             a {
                 color: var(--color-tarawera);

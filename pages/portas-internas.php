@@ -32,19 +32,31 @@
             <div class="col-12 col-md-8 offset-md-1">
                 <div class="internas-produtos-img">
                     <div class="box-img">
-                        <img src="<?php echo $pageurl; ?>/public/images/portas-internas-1.jpg" class="bg-internas" alt="" />
+                        <img src="<?php echo $pageurl; ?>/public/images/portas-1.jpg" class="bg-internas" alt="" />
                     </div>
 
                     <div class="box-img">
-                        <img src="<?php echo $pageurl; ?>/public/images/portas-internas-2.jpg" class="bg-internas" alt="" />
+                        <img src="<?php echo $pageurl; ?>/public/images/portas-2.jpg" class="bg-internas" alt="" />
                     </div>
 
                     <div class="box-img">
-                        <img src="<?php echo $pageurl; ?>/public/images/portas-internas-3.jpg" class="bg-internas" alt="" />
+                        <img src="<?php echo $pageurl; ?>/public/images/portas-3.jpg" class="bg-internas" alt="" />
                     </div>
 
                     <div class="box-img">
-                        <img src="<?php echo $pageurl; ?>/public/images/portas-internas-4.jpg" class="bg-internas" alt="" />
+                        <img src="<?php echo $pageurl; ?>/public/images/portas-4.jpg" class="bg-internas" alt="" />
+                    </div>
+
+                    <div class="box-img">
+                        <img src="<?php echo $pageurl; ?>/public/images/pvc-2.jpeg" class="bg-internas" alt="" />
+                    </div>
+
+                    <div class="box-img">
+                        <img src="<?php echo $pageurl; ?>/public/images/pvc-3.jpeg" class="bg-internas" alt="" />
+                    </div>
+
+                    <div class="box-img">
+                        <img src="<?php echo $pageurl; ?>/public/images/pvc-4.jpeg" class="bg-internas" alt="" />
                     </div>
                 </div>
             </div>

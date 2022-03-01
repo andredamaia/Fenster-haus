@@ -7,7 +7,7 @@ const pageurl = document.querySelector('body').id
 
 Swiper.use([Navigation]);
 
-if(pageurl == 'cases'){
+if(pageurl == 'obras'){
 
     const swiperCases = new Swiper('.swiper-cases', {
       slidesPerView: 3,

@@ -13,4 +13,30 @@
         }
     }
   }
+
+  .quem-somos-list {
+    display: grid;
+    grid-template-columns: 1fr;
+
+    @media(min-height: 630px) and (max-height: 720px) {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    @media(min-height: 720px) and (max-height: 740px) {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+}
+
+#quem-somos p {
+  font-size: 1.6rem;
+  line-height: 1.8rem;
+  margin-bottom: 1.5rem;
+}
+
+#quem-somos strong {
+  font-size: 1.6rem;
+  line-height: 1.8rem;
+  margin-bottom: 1.5rem;
+  display: inline-block;
 }

@@ -15,7 +15,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h3>Esquadrias em PVC</h3>
+                    <h3>Esquadrias em alumínio</h3>
                 </div>
             </div>
         </div>
@@ -26,7 +26,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-6">
-                <p>Portas e janelas contendo <strong>2, 3 e 4 folhas.</strong><br/> Porta interna branca e opções coloridas<br/> mediante à disponibilidade.</p>
+                <p>Portas e janelas contendo <strong>2 e 8 folhas.</strong><br/> Porta interna branca e opções coloridas<br/> mediante disponibilidade.</p>
             </div>
 
             <div class="col-12 col-md-11">

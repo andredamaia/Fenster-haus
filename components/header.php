@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-6 col-md-2">
                 <div class="logo">
-                    <a href="#">
+                    <a href="<?php echo $pageurl; ?>/">
                         <img src="<?php echo $pageurl; ?>/public/images/logo.png" alt="Fenster Haus soluções em esquadrias" />
                     </a>
                 </div>
@@ -13,50 +13,50 @@
                 <div class="menu-list">
                     <ul>
                         <li>
-                            <a href="/fenster-haus">
+                            <a href="<?php echo $pageurl; ?>/">
                                 Home
                             </a>
                         </li>
 
                         <li>
-                            <a href="sobre-nos">
+                            <a href="<?php echo $pageurl; ?>/sobre-nos">
                                 Sobre nós
                             </a>
                         </li>
 
                         <li>
                             <span>
-                                <a href="produtos">
+                                <span style="color: var(--color-tarawera);font-size: 1.8rem;line-height: 2rem;font-weight: 700;">
                                     Nossos produtos
-                                </a>
+                                </span>
 
                                 <ul class="list-dropdown">
                                     <li>
-                                        <a href="esquadrias">
+                                        <a href="<?php echo $pageurl; ?>/esquadrias">
                                             Esquadrias
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="portas-internas">
+                                        <a href="<?php echo $pageurl; ?>/portas-internas">
                                             Portas internas
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="pele-de-vidro">
+                                        <a href="<?php echo $pageurl; ?>/pele-de-vidro">
                                             Pele de vidro
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="guarda-corpo">
+                                        <a href="<?php echo $pageurl; ?>/guarda-corpo">
                                             Guarda corpo
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="rodape">
+                                        <a href="<?php echo $pageurl; ?>/rodape">
                                             Rodapé
                                         </a>
                                     </li>
@@ -65,31 +65,31 @@
                         </li>
 
                         <li>
-                            <a href="por-que-escolher-a-fenster">
+                            <a href="<?php echo $pageurl; ?>/por-que-escolher-a-fenster">
                                 Por que escolher a Fenster?
                             </a>
                         </li>
 
                         <li>
-                            <a href="quem-somos">
+                            <a href="<?php echo $pageurl; ?>/quem-somos">
                                 Quem somos
                             </a>
                         </li>
 
                         <li>
-                            <a href="blog">
+                            <a href="<?php echo $pageurl; ?>/blog">
                                 Blog
                             </a>
                         </li>
 
                         <li>
-                            <a href="cases">
-                                Cases
+                            <a href="<?php echo $pageurl; ?>/obras">
+                                Obras
                             </a>
                         </li>
 
                         <li>
-                            <a href="fale-conosco">
+                            <a href="<?php echo $pageurl; ?>/fale-conosco">
                                 Fale conosco
                             </a>
                         </li>

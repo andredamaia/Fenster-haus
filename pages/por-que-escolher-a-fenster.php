@@ -15,7 +15,7 @@
 
                     <p>• Segurança: não propagam chamas;</p>
 
-                    <p>• Conforto termo-acústico;</p>
+                    <p>• Conforto termoacústico;</p>
 
                     <p>• Estanqueidade: simulação de condições agressivas de vento e chuva;</p>
 

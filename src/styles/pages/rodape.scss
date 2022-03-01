@@ -1,7 +1,7 @@
 .internas-produtos-img {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 7rem;
+    gap: 3rem !important;
 
     @media (max-width: 768px) {
         grid-template-columns: 1fr;

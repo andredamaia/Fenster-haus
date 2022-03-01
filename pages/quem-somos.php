@@ -8,42 +8,28 @@
                     <div class="quem-somos-description">
                         <strong>Somos movidos por desafios e apaixonados pelo que fazemos!</strong>
 
-                        <p>Nossa missão é desenvolver, produzir e comercializar nossos produtos com tecnologia, qualidade e inovação, visando a satisfação do cliente, contribuindo para o desenvolvimento tecnológico e a melhoria da qualidade de vida, respeitando o indivíduo, a sociedade e o meio-ambiente.</p>
+                        <p>Nossa <strong>missão</strong> é desenvolver, produzir e comercializar nossos produtos com tecnologia, qualidade e inovação, visando a satisfação do cliente, contribuindo para o desenvolvimento tecnológico e a melhoria da qualidade de vida, respeitando o indivíduo, a sociedade e o meio-ambiente.</p>
 
-                        <p>Nossa Visão e ser uma empresa reconhecida pela qualidade dos produtos e atendimento oferecidos, com notoriedade no mercado de esquadrias<br/>
+                        <p>Nossa <strong>Visão</strong> e ser uma empresa reconhecida pela qualidade dos produtos e atendimento oferecidos, com notoriedade no mercado de esquadrias<br/>
                         e comprometimento com a satisfação dos clientes, fornecedores e colaboradores.</p>
 
                         <strong>Nossos Valores:</strong>
 
-                        <ul>
-                            <li>
-                                <p>Integridade;</p>
-                            </li>
+                        <div class="quem-somos-list">
+                            <p>• Integridade;</p>
 
-                            <li>
-                                <p>Comprometimento;</p>
-                            </li>
+                            <p>• Comprometimento;</p>
 
-                            <li>
-                                <p>Valorização humana;</p>
-                            </li>
+                            <p>• Valorização humana</p>
 
-                            <li>
-                                <p>Superação dos resultados;</p>
-                            </li>
+                            <p>• Superação dos resultados;</p>
 
-                            <li>
-                                <p>Melhoria contínua;</p>
-                            </li>
+                            <p>• Melhoria contínua;</p>
 
-                            <li>
-                                <p>Inovação;</p>
-                            </li>
+                            <p>• Inovação;</p>
 
-                            <li>
-                                <p>Sustentabilidade.</p>
-                            </li>
-                        </ul>
+                            <p>• Sustentabilidade;</p>
+                        </div>
                     </div>
                 </div>
             </div>

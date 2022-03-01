@@ -31,12 +31,22 @@
     }
 
     ul {
+        list-style: none;
         li {
-            font-size: 2.5rem;
-            line-height: 3.6rem;
-            color: var(--color-tarawera);
-            margin-top: .5rem;
-            font-weight: 700;
+            a {
+                font-size: 2.5rem;
+                line-height: 3.6rem;
+                color: var(--color-tarawera);
+                margin-top: .5rem;
+                font-weight: 700;
+                transition: all .3s ease-in-out;
+                text-decoration: none;
+
+                &:hover {
+                    color: var(--color-tangerine);
+                    text-decoration: none;
+                }
+            }
         }
     }
 

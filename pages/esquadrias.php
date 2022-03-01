@@ -25,11 +25,19 @@
 <div class="internas-area-white">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-md-2">
+            <div class="col-12 col-md-3 ">
                 <ul>
-                    <li>PVC</li>
+                    <li>
+                        <a href="<?php echo $pageurl; ?>/pvc">
+                            • PVC
+                        </a>
+                    </li>
 
-                    <li>Alumínio</li>
+                    <li>
+                        <a href="<?php echo $pageurl; ?>/esquadrias-aluminio">
+                            • alumínio
+                        </a>
+                    </li>
                 </ul>
             </div>
 
@@ -38,11 +46,11 @@
                     <div class="box">
                         <h5>Glide FH</h5>
 
-                        <p>O sistema Glide FH é composto por diferentes perfis de PVC e alumínio. Ele é completo, oferecendo soluções que podem ser utilizadas em diversos detalhes arquitetônicos.
-                        Possui diferentes versões, com portas e janelas de correr com várias possibilidades de configuração: com tela, com ou sem persiana, de 2 a 8 folhas.</p>
+                        <p>O sistema Glide FH é composto por diferentes perfis de PVC e alumínio. Este sistema é completo, oferecendo soluções que podem ser utilizadas em diversos detalhes arquitetônicos.</p>
 
-                        <p>As folhas possuem duas soluções: porta e janela, e são equipadas com câmaras isolantes internas que trazem estabilidade e eficiência térmica.
-                        Consulte nossa paleta de cores.</p>
+                        <p>Possui diferentes versões, com portas e janelas de correr com várias possibilidades de configuração: com tela, com ou sem persiana, de 2 a 8 folhas.</p>
+
+                        <p>Nossas portas e janelas são equipadas com câmaras isolantes internas que trazem estabilidade e eficiência térmica.</p>
                     </div>
 
                     <div class="box">

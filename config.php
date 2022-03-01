@@ -1,6 +1,6 @@
 <?php
 
-// $pageurl = "https://".$_SERVER["SERVER_NAME"]; // Production
+// $pageurl = "http://".$_SERVER["SERVER_NAME"].'/dev'; // Production
 $pageurl = "../fenster-haus"; // Development
 
 $url = explode('/', $_GET['cod']);

@@ -1,5 +1,5 @@
 .cases {
-    padding: 15rem 0 2rem;
+    padding: 15rem 0 0;
     height: 100%;
 
     @media (max-width: 768px) {
@@ -84,4 +84,8 @@
             }
         }
     }
+}
+
+#obras .full-screen {
+    height: auto;
 }

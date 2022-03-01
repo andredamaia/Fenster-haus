@@ -20,8 +20,11 @@ export default class Load {
 
     load() {
         this.preload.fetch([
-            '../boilerplate/public/images/favicon.png',
-            '../boilerplate/public/images/share.jpg'
+            '../fenster-haus/public/images/favicon.png',
+            '../fenster-haus/public/images/bg-sobre-nos.png',
+            '../fenster-haus/public/images/banner-1.jpg',
+            '../fenster-haus/public/images/banner-2.jpg',
+            '../fenster-haus/public/images/banner-3.jpg',
         ]).then(() => {
             // Animation executed when loading finish
             const enterAnimantion = gsap.timeline({ delay: 1 })
@@ -39,47 +42,6 @@ export default class Load {
                 delay: -.8,
                 ease: 'power3.inOut'
             })
-            enterAnimantion.fromTo(
-                '.main *',
-                {
-                    autoAlpha: 0,
-                    y: 30
-                },
-                {
-                    autoAlpha: 1,
-                    y: 0,
-                    ease: "power2.out",
-                    stagger: .05,
-                    duration: .6
-                }
-            )
-            
-            // General animation
-            document.querySelectorAll("footer").forEach((text) => {
-                const tl = gsap.timeline({
-                  scrollTrigger: {
-                    trigger: text,
-                    end: "+=60%",
-                  },
-                });
-            
-                tl.set(text, {
-                  autoAlpha: 0,
-                  y: this.randomY,
-                }).fromTo(
-                  text,
-                  {
-                    autoAlpha: 0,
-                  },
-                  {
-                    autoAlpha: 1,
-                    duration: 1.8,
-                    y: 0,
-                    duration: this.randomDuration,
-                    ease: "power2.out",
-                  }
-                );
-            });
         })
         
         this.preload.onprogress = event => {
