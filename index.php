@@ -28,8 +28,7 @@
 
     <body id="<?php echo $page; ?>" class="<?php echo $subpage; ?>">
         <div class="webapp">
-            <?php include('components/preload.php'); ?>
-            
+                        
             <?php include('components/header.php'); ?>
 
             <?php include('components/button-fale-conosco.php'); ?>

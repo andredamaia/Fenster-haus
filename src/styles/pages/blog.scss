@@ -52,19 +52,19 @@
     }
 }
 
-#blog .full-screen {
-    min-height: 85vh;
-    overflow: hidden;
-}
+// #blog .full-screen {
+//     min-height: 85vh;
+//     overflow: hidden;
+// }
 
-#blog footer {
-    position: absolute;
-    width: 100%;
-    bottom: 0;
+// #blog footer {
+//     position: absolute;
+//     width: 100%;
+//     bottom: 0;
 
-    @media (min-height: 620px) and (max-height: 720px) {
-        position: absolute;
-        width: 100%;
-        bottom: 0;
-    }
-}
+//     @media (min-height: 620px) and (max-height: 720px) {
+//         position: absolute;
+//         width: 100%;
+//         bottom: 0;
+//     }
+// }

@@ -47,17 +47,17 @@
                         <img src="<?php echo $pageurl; ?>/public/images/portas-4.jpg" class="bg-internas" alt="" />
                     </div>
 
-                    <div class="box-img">
+                    <!-- <div class="box-img">
                         <img src="<?php echo $pageurl; ?>/public/images/pvc-2.jpeg" class="bg-internas" alt="" />
-                    </div>
+                    </div> -->
 
-                    <div class="box-img">
+                    <!-- <div class="box-img">
                         <img src="<?php echo $pageurl; ?>/public/images/pvc-3.jpeg" class="bg-internas" alt="" />
                     </div>
 
                     <div class="box-img">
                         <img src="<?php echo $pageurl; ?>/public/images/pvc-4.jpeg" class="bg-internas" alt="" />
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

@@ -38,17 +38,17 @@
                     <img src="<?php echo $pageurl; ?>/public/images/case-9.png" alt="" />
                 </div>
 
-                <div class="swiper-slide">
+                <!-- <div class="swiper-slide">
                     <img src="<?php echo $pageurl; ?>/public/images/case-10.jpg" alt="" />
-                </div>
+                </div> -->
 
-                <div class="swiper-slide">
+                <!-- <div class="swiper-slide">
                     <img src="<?php echo $pageurl; ?>/public/images/case-11.jpg" alt="" />
-                </div>
+                </div> -->
 
-                <div class="swiper-slide">
+                <!-- <div class="swiper-slide">
                     <img src="<?php echo $pageurl; ?>/public/images/case-12.jpg" alt="" />
-                </div>
+                </div> -->
 
                 <div class="swiper-slide">
                     <img src="<?php echo $pageurl; ?>/public/images/case-23.jpg" alt="" />
@@ -58,17 +58,17 @@
                     <img src="<?php echo $pageurl; ?>/public/images/case-14.jpg" alt="" />
                 </div>
 
-                <div class="swiper-slide">
+                <!-- <div class="swiper-slide">
                     <img src="<?php echo $pageurl; ?>/public/images/case-15.jpg" alt="" />
-                </div>
+                </div> -->
 
-                <div class="swiper-slide">
+                <!-- <div class="swiper-slide">
                     <img src="<?php echo $pageurl; ?>/public/images/case-16.jpg" alt="" />
-                </div>
+                </div> -->
 
-                <div class="swiper-slide">
+                <!-- <div class="swiper-slide">
                     <img src="<?php echo $pageurl; ?>/public/images/case-17.jpg" alt="" />
-                </div>
+                </div> -->
 
                 <div class="swiper-slide">
                     <img src="<?php echo $pageurl; ?>/public/images/case-18.jpg" alt="" />
@@ -94,9 +94,9 @@
                     <img src="<?php echo $pageurl; ?>/public/images/case-24.jpg" alt="" />
                 </div>
 
-                <div class="swiper-slide">
+                <!-- <div class="swiper-slide">
                     <img src="<?php echo $pageurl; ?>/public/images/case-25.jpg" alt="" />
-                </div>
+                </div> -->
 
                 <div class="swiper-slide">
                     <img src="<?php echo $pageurl; ?>/public/images/case-26.jpg" alt="" />
@@ -110,13 +110,13 @@
                     <img src="<?php echo $pageurl; ?>/public/images/case-28.jpg" alt="" />
                 </div>
 
-                <div class="swiper-slide">
+                <!-- <div class="swiper-slide">
                     <img src="<?php echo $pageurl; ?>/public/images/case-29.jpg" alt="" />
-                </div>
+                </div> -->
 
-                <div class="swiper-slide">
+                <!-- <div class="swiper-slide">
                     <img src="<?php echo $pageurl; ?>/public/images/case-30.jpg" alt="" />
-                </div>
+                </div> -->
             </div>
 
             <div class="swiper-button-prev"><img src="<?php echo $pageurl; ?>/public/images/arrow-left.png" alt="" /></div>

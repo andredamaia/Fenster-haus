@@ -35,7 +35,7 @@
 
                     <li>
                         <a href="<?php echo $pageurl; ?>/esquadrias-aluminio">
-                            • alumínio
+                            • ALUMÍNIO
                         </a>
                     </li>
                 </ul>

@@ -86,8 +86,8 @@
             </li>
 
             <li>
-                <a href="<?php echo $pageurl; ?>/cases">
-                    Cases
+                <a href="<?php echo $pageurl; ?>/obras">
+                    Obras
                 </a>
             </li>
 

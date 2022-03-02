@@ -13,7 +13,7 @@
                         </div>
 
                         <div>
-                            <p><strong>Trabalhamos com portas e janelas em PVC e ALUMINÍO</strong>, integrando tecnologia<br/> e design em itens duráveis. Nossos produtos têm conforto termoacústico<br/> devido à vedação impecável, além de baixa manutenção e total leveza no<br/> abrir e fechar das folhas.</p>
+                            <p><strong>Trabalhamos com portas e janelas em PVC e ALUMÍNIO</strong>, integrando tecnologia<br/> e design em itens duráveis. Nossos produtos têm conforto termoacústico<br/> devido à vedação impecável, além de baixa manutenção e total leveza no<br/> abrir e fechar das folhas.</p>
                         </div>
 
                         <div>
