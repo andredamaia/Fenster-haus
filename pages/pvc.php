@@ -26,7 +26,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-6">
-                <p>Portas e janelas de correr, portas pivotantes e de giro,<br/> janelas oscilo batente e maxim ar.<br/> Disponíveis opções de <strong>2 a 8 folhas</strong></p>
+                <p>Portas e janelas de correr <strong>(opções de 2 a 8 folhas)</strong>, <br/>portas pivotantes e de giro, janelas oscilo batente<br/> e maxim ar.</p>
             </div>
 
             <div class="col-12 col-md-11">
